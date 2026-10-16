@@ -1,0 +1,4 @@
+# Clones locais dos repositórios do projeto (cada um tem seu próprio git)
+/azure-gitops-infra/
+/azure-gitops-app/
+/azure-gitops-config/
