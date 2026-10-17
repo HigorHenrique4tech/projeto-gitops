@@ -11,3 +11,4 @@ Plataforma GitOps no Azure construída como projeto de laboratório e portfólio
 | [azure-gitops-config](https://github.com/HigorHenrique4tech/azure-gitops-config) | Manifests Kustomize sincronizados pelo ArgoCD |
 
 > Em construção.
+Melhoria, primeira alteracao no projeto.
